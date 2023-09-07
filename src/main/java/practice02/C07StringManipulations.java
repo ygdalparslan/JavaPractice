@@ -29,6 +29,9 @@ public class C07StringManipulations {
 
         System.out.println(name +"\n" +surname);
 
+                
+
+
 
 
 
